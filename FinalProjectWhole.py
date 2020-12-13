@@ -1,3 +1,6 @@
+# Joshua Soto
+#1553869
+
 import csv
 import os
 from datetime import datetime
